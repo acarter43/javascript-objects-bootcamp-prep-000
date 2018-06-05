@@ -31,7 +31,11 @@
     "babel-preset-es2015": "^6.9.0",
     "jsdom": "^9.0.0",
     "mocha": "^2.4.5",
+<<<<<<< HEAD
     "mocha-jsdom": "2.0.0",
+=======
+    "mocha-jsdom": "2.0.0", 
+>>>>>>> f0eeb275472bf47ed948b9d958f74d340ab85d6e
     "mocha-multi": "^0.9.0"
   }
 }
